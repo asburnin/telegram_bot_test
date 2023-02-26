@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.61.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
